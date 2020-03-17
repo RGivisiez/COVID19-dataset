@@ -1,6 +1,6 @@
 # COVID19-dataset
 
-  Data analysis using the COVID-19 from Johns Hopkins University and Brazilian government.
+  Data analysis using the COVID-19 from Johns Hopkins University and brazilian government.
 
 
 - Animation of disease spread through the world:
