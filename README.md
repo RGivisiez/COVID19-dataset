@@ -10,6 +10,7 @@
 ![cases_by_country](img/Brazil_data.png)
 
 - World death ratio:
+
 ![death_ratio](img/death_ratio.png)
 
 - Cases confirmed in Brazil by state:
